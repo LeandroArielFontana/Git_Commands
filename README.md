@@ -1,3 +1,5 @@
+![](https://git-scm.com/images/logos/downloads/Git-Logo-White.svg)
+
 Comandos Basicos de Git
 =============
 
