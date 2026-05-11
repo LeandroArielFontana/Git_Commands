@@ -1,0 +1,9 @@
+# IDE - IntelliJ / WebStorm / PyCharm
+.idea/
+
+# IDE - Visual Studio Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
